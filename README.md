@@ -24,7 +24,7 @@ A basic HTML site with forms allowing the user to add, subtract, divide or multi
 
 ## Known Bugs
 
-* Must be cloned to change operator
+* N/A
 
 
 ## License

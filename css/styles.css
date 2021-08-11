@@ -1,3 +1,19 @@
 .btn {
   background-color: burlywood;
 }
+
+#addOutput {
+  border: 2px solid cadetblue;
+}
+
+#subtractOutput {
+  border: 2px solid cadetblue;
+}
+
+#multiplyOutput {
+  border: 2px solid cadetblue;
+}
+
+#divideOutput {
+  border: 2px solid cadetblue;
+}
