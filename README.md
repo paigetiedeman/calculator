@@ -1,6 +1,6 @@
 # Calculator
 
-#### a calculator using js alert function
+#### Simple calculator using forms
 
 #### By Paige Tiedeman
 
